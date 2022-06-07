@@ -1,22 +1,6 @@
-# ↔️ Week08 Bootcamp2019a Project: Server Side Palindrome Checker
+<h1 align="center"> Palindrome Checkr </h1>
+<p align="center"> a Palindrome is a word, phrase, or sequence that reads the same backward as forward, This application allows user to enter a word and the application would notify you if the word is a Palindrome <p>
+  
+  ![pal](https://user-images.githubusercontent.com/101954954/172287324-23b2e8d9-82a9-45bf-a8ec-9089d70f313b.png)
 
-### Goal: Create a simple web application that uses the fs and http modules to validate if a string is a palindrome server side.
-
-### How to submit your code for review:
-
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+  Tech used: HTML, CSS, JavaScript, Node.js
